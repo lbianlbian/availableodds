@@ -1,0 +1,183 @@
+[
+{
+  "event": "US Presidential Election",
+  "homeTeam": "Bald Eagle",
+  "awayTeam": "Uncle Sam",
+  "sport": "Politics",
+  "date": "No date for this event",
+  "home": [ {"odds": 0, "totalAmount": 0, "accArr": [{"amount": 0, "acc": "blank"}] }, 
+          {"odds": 0, "totalAmount": 0, "accArr": [{"amount": 0, "acc": "blank"}] }, 
+          {"odds": 0, "totalAmount": 0, "accArr": [{"amount": 0, "acc": "blank"}] } 
+        ], 
+  "away": [{"odds": 0, "totalAmount": 0, "accArr": [{"amount": 0, "acc": "blank"}] },
+        {"odds": 0, "totalAmount": 0, "accArr": [{"amount": 0, "acc": "blank"}] },
+        {"odds": 0, "totalAmount": 0, "accArr": [{"amount": 0, "acc": "blank"}] } 
+        ]
+},
+{
+  "event": "Major League Baseball",
+  "homeTeam": "New York Yankees",
+  "awayTeam": "New York Mets",
+  "sport": "Baseball",
+  "date": "22 August",
+  "home": [ {"odds": 0, "totalAmount": 0, "accArr": [{"amount": 0, "acc": "blank"}] }, 
+          {"odds": 0, "totalAmount": 0, "accArr": [{"amount": 0, "acc": "blank"}] }, 
+          {"odds": 0, "totalAmount": 0, "accArr": [{"amount": 0, "acc": "blank"}] } 
+        ], 
+  "away": [{"odds": 0, "totalAmount": 0, "accArr": [{"amount": 0, "acc": "blank"}] },
+        {"odds": 0, "totalAmount": 0, "accArr": [{"amount": 0, "acc": "blank"}] },
+        {"odds": 0, "totalAmount": 0, "accArr": [{"amount": 0, "acc": "blank"}] } 
+        ]
+},
+{
+  "event": "Man Utd vs Liverpool: Man Utd Wins",
+  "homeTeam": "Man Utd Wins",
+  "awayTeam": "Man Utd Does Not Win",
+  "sport": "Soccer",
+  "date": "22 August",
+  "home": [ {"odds": 0, "totalAmount": 0, "accArr": [{"amount": 0, "acc": "blank"}] }, 
+          {"odds": 0, "totalAmount": 0, "accArr": [{"amount": 0, "acc": "blank"}] }, 
+          {"odds": 0, "totalAmount": 0, "accArr": [{"amount": 0, "acc": "blank"}] } 
+        ], 
+  "away": [{"odds": 0, "totalAmount": 0, "accArr": [{"amount": 0, "acc": "blank"}] },
+        {"odds": 0, "totalAmount": 0, "accArr": [{"amount": 0, "acc": "blank"}] },
+        {"odds": 0, "totalAmount": 0, "accArr": [{"amount": 0, "acc": "blank"}] } 
+        ]
+},
+{
+  "event": "Man Utd vs Liverpool: Tie",
+  "homeTeam": "Draw",
+  "awayTeam": "Not a Draw",
+  "sport": "Soccer",
+  "date": "22 August",
+  "home": [ {"odds": 0, "totalAmount": 0, "accArr": [{"amount": 0, "acc": "blank"}] }, 
+          {"odds": 0, "totalAmount": 0, "accArr": [{"amount": 0, "acc": "blank"}] }, 
+          {"odds": 0, "totalAmount": 0, "accArr": [{"amount": 0, "acc": "blank"}] } 
+        ], 
+  "away": [{"odds": 0, "totalAmount": 0, "accArr": [{"amount": 0, "acc": "blank"}] },
+        {"odds": 0, "totalAmount": 0, "accArr": [{"amount": 0, "acc": "blank"}] },
+        {"odds": 0, "totalAmount": 0, "accArr": [{"amount": 0, "acc": "blank"}] } 
+        ]
+},
+{
+  "event": "Man Utd vs Liverpool: Liverpool Wins",
+  "homeTeam": "Liverpool Wins",
+  "awayTeam": "Liverpool Does Not Win",
+  "sport": "Soccer",
+  "date": "22 August",
+  "home": [ {"odds": 0, "totalAmount": 0, "accArr": [{"amount": 0, "acc": "blank"}] }, 
+          {"odds": 0, "totalAmount": 0, "accArr": [{"amount": 0, "acc": "blank"}] }, 
+          {"odds": 0, "totalAmount": 0, "accArr": [{"amount": 0, "acc": "blank"}] } 
+        ], 
+  "away": [{"odds": 0, "totalAmount": 0, "accArr": [{"amount": 0, "acc": "blank"}] },
+        {"odds": 0, "totalAmount": 0, "accArr": [{"amount": 0, "acc": "blank"}] },
+        {"odds": 0, "totalAmount": 0, "accArr": [{"amount": 0, "acc": "blank"}] } 
+        ]
+},
+{
+  "event": "England vs South Africa: England Wins",
+  "homeTeam": "England Wins",
+  "awayTeam": "England Does Not Win",
+  "sport": "Cricket",
+  "date": "12 September",
+  "home": [ {"odds": 0, "totalAmount": 0, "accArr": [{"amount": 0, "acc": "blank"}] }, 
+          {"odds": 0, "totalAmount": 0, "accArr": [{"amount": 0, "acc": "blank"}] }, 
+          {"odds": 0, "totalAmount": 0, "accArr": [{"amount": 0, "acc": "blank"}] } 
+        ], 
+  "away": [{"odds": 0, "totalAmount": 0, "accArr": [{"amount": 0, "acc": "blank"}] },
+        {"odds": 0, "totalAmount": 0, "accArr": [{"amount": 0, "acc": "blank"}] },
+        {"odds": 0, "totalAmount": 0, "accArr": [{"amount": 0, "acc": "blank"}] } 
+        ]
+},
+{
+  "event": "England vs South Africa: Draw",
+  "homeTeam": "Draw",
+  "awayTeam": "Not a Draw",
+  "sport": "Cricket",
+  "date": "12 September",
+  "home": [ {"odds": 0, "totalAmount": 0, "accArr": [{"amount": 0, "acc": "blank"}] }, 
+          {"odds": 0, "totalAmount": 0, "accArr": [{"amount": 0, "acc": "blank"}] }, 
+          {"odds": 0, "totalAmount": 0, "accArr": [{"amount": 0, "acc": "blank"}] } 
+        ], 
+  "away": [{"odds": 0, "totalAmount": 0, "accArr": [{"amount": 0, "acc": "blank"}] },
+        {"odds": 0, "totalAmount": 0, "accArr": [{"amount": 0, "acc": "blank"}] },
+        {"odds": 0, "totalAmount": 0, "accArr": [{"amount": 0, "acc": "blank"}] } 
+        ]
+},
+{
+  "event": "England vs South Africa: South Africa Wins",
+  "homeTeam": "South Africa Wins",
+  "awayTeam": "South Africa Does Not Win",
+  "sport": "Cricket",
+  "date": "12 September",
+  "home": [ {"odds": 0, "totalAmount": 0, "accArr": [{"amount": 0, "acc": "blank"}] }, 
+          {"odds": 0, "totalAmount": 0, "accArr": [{"amount": 0, "acc": "blank"}] }, 
+          {"odds": 0, "totalAmount": 0, "accArr": [{"amount": 0, "acc": "blank"}] } 
+        ], 
+  "away": [{"odds": 0, "totalAmount": 0, "accArr": [{"amount": 0, "acc": "blank"}] },
+        {"odds": 0, "totalAmount": 0, "accArr": [{"amount": 0, "acc": "blank"}] },
+        {"odds": 0, "totalAmount": 0, "accArr": [{"amount": 0, "acc": "blank"}] } 
+        ]
+},
+{
+  "event": "Bitcoin Price",
+  "homeTeam": "Over $25k",
+  "awayTeam": "Under $25k",
+  "sport": "Crypto",
+  "date": "31 August",
+  "home": [ {"odds": 0, "totalAmount": 0, "accArr": [{"amount": 0, "acc": "blank"}] }, 
+          {"odds": 0, "totalAmount": 0, "accArr": [{"amount": 0, "acc": "blank"}] }, 
+          {"odds": 0, "totalAmount": 0, "accArr": [{"amount": 0, "acc": "blank"}] } 
+        ], 
+  "away": [{"odds": 0, "totalAmount": 0, "accArr": [{"amount": 0, "acc": "blank"}] },
+        {"odds": 0, "totalAmount": 0, "accArr": [{"amount": 0, "acc": "blank"}] },
+        {"odds": 0, "totalAmount": 0, "accArr": [{"amount": 0, "acc": "blank"}] } 
+        ]
+},
+{
+  "event": "UFC 279: Chimaev vs Diaz",
+  "homeTeam": "Chimaev",
+  "awayTeam": "Diaz",
+  "sport": "Combat Sports",
+  "date": "10 September",
+  "home": [ {"odds": 0, "totalAmount": 0, "accArr": [{"amount": 0, "acc": "blank"}] }, 
+          {"odds": 0, "totalAmount": 0, "accArr": [{"amount": 0, "acc": "blank"}] }, 
+          {"odds": 0, "totalAmount": 0, "accArr": [{"amount": 0, "acc": "blank"}] } 
+        ], 
+  "away": [{"odds": 0, "totalAmount": 0, "accArr": [{"amount": 0, "acc": "blank"}] },
+        {"odds": 0, "totalAmount": 0, "accArr": [{"amount": 0, "acc": "blank"}] },
+        {"odds": 0, "totalAmount": 0, "accArr": [{"amount": 0, "acc": "blank"}] } 
+        ]
+},
+{
+  "event": "Boxing",
+  "homeTeam": "Anthony Joshua",
+  "awayTeam": "Oleksandr Usyk",
+  "sport": "Combat Sports",
+  "date": "25 September",
+  "home": [ {"odds": 0, "totalAmount": 0, "accArr": [{"amount": 0, "acc": "blank"}] }, 
+          {"odds": 0, "totalAmount": 0, "accArr": [{"amount": 0, "acc": "blank"}] }, 
+          {"odds": 0, "totalAmount": 0, "accArr": [{"amount": 0, "acc": "blank"}] } 
+        ], 
+  "away": [{"odds": 0, "totalAmount": 0, "accArr": [{"amount": 0, "acc": "blank"}] },
+        {"odds": 0, "totalAmount": 0, "accArr": [{"amount": 0, "acc": "blank"}] },
+        {"odds": 0, "totalAmount": 0, "accArr": [{"amount": 0, "acc": "blank"}] } 
+        ]
+},
+{
+  "event": "American Football",
+  "homeTeam": "Kansas City Chiefs",
+  "awayTeam": "Green Bay Packers",
+  "sport": "American Football",
+  "date": "26 August",
+  "home": [ {"odds": 0, "totalAmount": 0, "accArr": [{"amount": 0, "acc": "blank"}] }, 
+          {"odds": 0, "totalAmount": 0, "accArr": [{"amount": 0, "acc": "blank"}] }, 
+          {"odds": 0, "totalAmount": 0, "accArr": [{"amount": 0, "acc": "blank"}] } 
+        ], 
+  "away": [{"odds": 0, "totalAmount": 0, "accArr": [{"amount": 0, "acc": "blank"}] },
+        {"odds": 0, "totalAmount": 0, "accArr": [{"amount": 0, "acc": "blank"}] },
+        {"odds": 0, "totalAmount": 0, "accArr": [{"amount": 0, "acc": "blank"}] } 
+        ]
+}
+]
+
